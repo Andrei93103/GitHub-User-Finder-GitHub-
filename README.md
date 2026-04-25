@@ -1,5 +1,4 @@
 # GitHub-User-Finder-GitHub-
-# GitHub User Finder
 
 **Автор:** [Андрей Грезенталь]
 
